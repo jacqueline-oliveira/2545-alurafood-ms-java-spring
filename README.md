@@ -3,7 +3,7 @@
 
 
 
-# 2545 - Microsserviços com Java e Spring
+# 2545 - Microsserviços na prática: implementando com Java e Spring
 
 
 Curso de microsserviços com Java e Spring da Alura. Esse curso é o quarto da formação, tendo como pré-requisito a formação Spring Framework e os três primeiros cursos de Microsserviços, conforme links abaixo:
